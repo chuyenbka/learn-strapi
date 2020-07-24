@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_english_hoc_tieng_anhs",
+  "info": {
+    "name": "hoc_tieng_anh",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "ten_tieng_anh": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    }
+  }
+}
